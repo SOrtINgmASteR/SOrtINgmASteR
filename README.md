@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Mohammed Priom aka SOrtINgmASteR</h1>
 <h3 align="center">I'm a computer science student from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif>
+<img align="right" alt="Coding" width="400" https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
 - 🌱 I’m currently learning **Python 🐍 & Java ☕**
