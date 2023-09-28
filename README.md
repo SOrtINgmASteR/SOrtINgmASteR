@@ -12,7 +12,7 @@
 <a href="https://fb.com/https://www.facebook.com/noormohammed.priom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/noormohammed.priom/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/noor_mohammed_priom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noor_mohammed_priom/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/5th_y_3rd_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/5th_y_3rd_s" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/22101134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/22101134" height="30" width="40" /></a>
+<a href="https://codeforces.com/22101134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/22101134" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
