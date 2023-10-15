@@ -3,7 +3,8 @@
 <img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
-- 🌱 I’m currently learning **Python 🐍 & Java ☕**  
+- 🌱 I’m currently learning **Python 🐍 & Java ☕**
+
 **Programming concepts that I want to Master in next 6 months :**
 - `Python` 🐍
 - `Java` ☕
