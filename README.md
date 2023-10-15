@@ -3,15 +3,15 @@
 <img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
-- 🌱 I’m currently learning **Python 🐍 & Java ☕**
+- 🌱 I’m currently learning **Python 🐍 & Java ☕**  
+**Programming concepts that I want to Master in next 6 months :**
+- `Python` 🐍
+- `Java` ☕
+- All the OOP concepts using `Java` ☕ & `C++`.
+- Want to learn all the of `Data structures` & `Algorithms` to be able to solve problems.  
+
 
 - 📫 How to reach me **noor105464@gmail.com**  
-**Programming Languages I want to Master in next 6 months :**
-- `C/C++` ***C***
-- `Python` 🐍
-- `Java` ☕  
-
-Want to learn all the of `Data structures` & `Algorithms` to be able to solve problems. I also want to master all OOP concepts using `Java` ☕ & `C++`.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
