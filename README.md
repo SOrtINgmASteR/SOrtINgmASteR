@@ -5,7 +5,13 @@
 
 - 🌱 I’m currently learning **Python 🐍 & Java ☕**
 
-- 📫 How to reach me **noor105464@gmail.com**
+- 📫 How to reach me **noor105464@gmail.com**  
+**Programming Languages I want to Master in next 6 months :**
+- `C/C++` ***C***
+- `Python` 🐍
+- `Java` ☕  
+
+Want to learn all the of `Data structures` & `Algorithms` to be able to solve problems. I also want to master all OOP concepts using `Java` ☕ & `C++`.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
