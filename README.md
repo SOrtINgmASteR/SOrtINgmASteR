@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sortingmaster&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -48,16 +48,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sortingmaster&theme=github_dark" alt="GitHub Summary" />
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortingmaster&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sortingmaster&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sortingmaster&show_icons=true&locale=en&layout=compact" alt="sortingmaster" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sortingmaster&show_icons=true&locale=en" alt="sortingmaster" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sortingmaster&" alt="sortingmaster" /></p>
-
