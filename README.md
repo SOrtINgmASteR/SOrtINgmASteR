@@ -37,21 +37,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sortingmaster&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sortingmaster&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=github_dark" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sortingmaster&theme=github_dark" alt="GitHub Summary" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sortingmaster&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 
