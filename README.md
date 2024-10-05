@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noor Mohammed Priom aka SOrtINgmASteR</h1>
 <h3 align="center">I'm a computer science student from Bangladesh.</h3>
 <img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" height="200" width="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
-- 🌱 I’m currently learning
+## 🌱 I’m currently learning
 <div align="left">
 	<table>
 		<tr>
@@ -15,6 +16,8 @@
 		</tr>
 	</table>
 </div>
+
+
 
 ## 📚 Programming concepts that I want to Master in next 6 months :
 - I want to finish all the language based repositories ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)🐍, ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)☕  
