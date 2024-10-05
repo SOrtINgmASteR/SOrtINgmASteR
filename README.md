@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Noor Mohammed Priom aka SOrtINgmASteR</h1>
 <h3 align="center">I'm a computer science student from Bangladesh.</h3>
-
+<img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
-## 🌱 I’m currently learning
+### 🌱 I’m currently learning
 <div align="left">
 	<table>
 		<tr>
@@ -15,10 +15,9 @@
 		</tr>
 	</table>
 </div>
-<img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
-## 📚 Programming concepts that I want to Master in next 6 months :
+### 📚 Programming concepts that I want to Master in next 6 months :
 - I want to finish all the language based repositories ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)🐍, ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)☕  
 - I want to finish all the academic Repositories ![DS](https://img.shields.io/badge/Data%20Structures-Yellow), ![Algorithms](https://img.shields.io/badge/Algorithms-blue), ![OOP](https://img.shields.io/badge/OOP-Multiple%20Language-blue).
 - Want to learn all the of `Data structures` & `Algorithms` to be able to solve problems.  
