@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noor Mohammed Priom aka SOrtINgmASteR</h1>
 <h3 align="center">I'm a computer science student from Bangladesh.</h3>
-<img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<img align="right" height="200" width="300" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sortingmaster&label=Profile%20views&color=0e75b6&style=flat" alt="sortingmaster" /> </p>
 
 ## 🌱 I’m currently learning
@@ -16,7 +15,7 @@
 		</tr>
 	</table>
 </div>
-
+<img align="right" height="200" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 ## 📚 Programming concepts that I want to Master in next 6 months :
